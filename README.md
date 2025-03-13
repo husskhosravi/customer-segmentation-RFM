@@ -39,7 +39,7 @@ Pairplots reveal how clusters differ in Recency, Frequency, and Monetary. A bar 
 ### 📌 Model & Techniques  
 - **KMeans Clustering**: Chosen for its simplicity and efficiency.  
 - **Elbow Method & Silhouette Score**: Used to guide the choice of optimal clusters.  
-
+- **Log Transformation & RobustScaler**: Employed to handle skewness and outliers, improving cluster separation.
 ---
 
 ### 📈 Results & Insights  
