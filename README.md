@@ -1,5 +1,5 @@
 ### 📊 Project Title  
-Customer segmentation using RFM and KMeans clustering
+Customer segmentation using RFM (Recency, Frequency, Monetary) analysis and KMeans clustering
 
 ---
 
