@@ -60,6 +60,5 @@ Pairplots reveal how clusters differ in Recency, Frequency, and Monetary. A bar 
 
 ### ✍️ How to Use  
 1. Clone this repository and place the dataset (`OnlineRetail.csv`) in the same folder as the notebook.  
-2. Install dependencies with `pip install -r requirements.txt`.  
-3. Open `RFM.ipynb` in Jupyter (or any Python IDE) and run the cells sequentially.  
-4. Review the cluster output and visualisations at the end of the notebook to interpret results.
+2. Open `RFM.ipynb` in Jupyter (or any Python IDE) and run the cells sequentially.  
+3. Review the cluster output and visualisations at the end of the notebook to interpret results.
