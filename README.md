@@ -10,7 +10,9 @@ Not every transaction is profitable, nor is every client willing to spend. Conse
 
 In this project, we apply RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchase history. Using a real e-commerce dataset, we calculate how recently customers made purchases, how often they buy, and how much they spend. With these metrics, we create distinct groups and tailor deals or discounts accordingly. This approach helps marketers identify high-value customers, bolster engagement, and ultimately increase customer lifetime value.
 
-RFM segmentation is a powerful technique for strategic decision-making, allowing businesses to quickly group customers with similar behaviours and personalise marketing campaigns. By understanding each segment’s unique characteristics, marketers can deliver more relevant offers and drive stronger response rates. This data-driven method leverages existing information such as purchase patterns, browsing history, and demographics to accurately target the most promising customer segments, leading to higher loyalty and sustained growth.
+RFM segmentation is a powerful technique for strategic decision-making, allowing businesses to quickly group customers with similar behaviours and personalise marketing campaigns. By understanding each segment’s unique characteristics, marketers can deliver more relevant offers and drive stronger response rates. 
+
+This data-driven method leverages existing information such as purchase patterns, browsing history, and demographics to accurately target the most promising customer segments, leading to higher loyalty and sustained growth.
 
 ---
 
